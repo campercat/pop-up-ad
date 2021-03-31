@@ -1,0 +1,43 @@
+/* Your styling here */
+.main-container {
+  width: 80%;
+  background-color: hotpink;
+  color: yellow;
+  border: solid 5px black;
+  border-radius: 20px;
+  text-align: center;
+  margin: 2em auto 2em auto;
+}
+
+form {
+  input[type=text] {
+    width: 50%;
+    margin: auto;
+  }
+  input[type=button] {
+    background-color: #53C0BC;
+    margin: 1em;
+    padding: 0.8em;
+    color: rgb(187, 65, 126);
+    font-weight: bold;
+  }
+}
+
+.performance-list{
+  color: black;
+  width: 80%;
+  margin: auto;
+}
+
+.close {
+  color: grey;
+  // margin-right: 100px;
+  // width: 100%;
+  text-align: right;
+}
+
+// .top-line {
+//   display: flex;
+//   flex-direction: row;
+//   justify-content: space-between;
+// }
